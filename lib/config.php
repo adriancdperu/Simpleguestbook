@@ -1,4 +1,7 @@
 <?php
+
+ /* Enter your data here */ 
+
 $host = "---";
 $username = "---";
 $password = "---";
